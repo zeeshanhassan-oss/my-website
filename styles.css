@@ -1,0 +1,53 @@
+
+body {
+    background-color: lightgray;
+    font-family: Arial;
+    margin: 20px;
+}
+
+nav {
+    background-color: navy;
+    padding: 15px;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+}
+
+header {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    margin: 15px;
+    padding: 15px;
+    border: 1px solid gray;
+}
+
+h1, h2 {
+    color: navy;
+}
+
+img {
+    margin: 10px;
+}
+
+footer {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
+img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
