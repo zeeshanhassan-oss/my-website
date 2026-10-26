@@ -1,4 +1,7 @@
 
+
+
+
 body {
     background-color: lightgray;
     font-family: Arial;
@@ -50,4 +53,13 @@ img{
     width: 100px;
     height: 100px;
     object-fit: cover;
+}
+#PR{
+    color: rgb(65, 34, 109);
+}
+html{
+    scroll-behavior: smooth;}
+
+table{
+    background-color: rgb(113, 172, 219);
 }
